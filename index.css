@@ -9,3 +9,8 @@ img{
     border-radius: 20px;
     
 }
+
+button{
+    background-color: gray;
+    padding: 2px;
+}
