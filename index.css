@@ -13,4 +13,5 @@ img{
 button{
     background-color: gray;
     padding: 2px;
+     box-shadow: 2px 2px black;
 }
